@@ -1,1 +1,1 @@
-Для запуску json-server команди: cd server , npm run server
+Для запуску json-server команди: cd server , npm i , npm run server
